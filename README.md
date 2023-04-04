@@ -1,12 +1,5 @@
 # Get_Next_Line Project - 42 Cursus
 
-
-## The get_next_line project is part of the 42 Cursus curriculum and is designed to introduce  to file input/output operations and dynamic memory allocation in C programming language. The main objective of this project is to create a function that reads a file line by line, regardless of the size of the file or the buffer used to read it.
-
-# Project Overview
-The get_next_line function takes three arguments:
-
-
 ### The get_next_line project is part of the 42 Cursus curriculum and is designed to introduce  to file input/output operations and dynamic memory allocation in C programming language. The main objective of this project is to create a function that reads a file line by line, regardless of the size of the file or the buffer used to read it.
 
 # Project Overview
@@ -42,8 +35,7 @@ The get_next_line function takes three arguments:
 ## Get next line Ressources
 
  - [get_next_line tester gnlTester](https://github.com/Tripouille/gnlTester)
- - [helpful video](hhttps://www.youtube.com/watch?v=-Mt2FdJjVno&t=643s)
-
+ - [helpful video](https://www.youtube.com/watch?v=-Mt2FdJjVno&t=643s)
 
 ## Authors
 
@@ -52,4 +44,3 @@ The get_next_line function takes three arguments:
 ## Contributing
 
 Contributions are always welcome!
-
